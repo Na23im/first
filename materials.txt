@@ -1,0 +1,6 @@
+You will need :
+A Raspberry Pi 4
+LEDs and resistors
+A buzzer
+A gps module
+A gsm module
